@@ -1,4 +1,4 @@
-# Moe-Usefull-Things
+# Moe-Awesome-Things
 **A list of links, repos, codes, and misc. for Software Engineering, Designing, and Developing**
 ---
 ## ▶Laravel 
