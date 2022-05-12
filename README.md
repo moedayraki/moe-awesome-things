@@ -33,7 +33,7 @@
 - [UIBall Loaders](https://uiball.com/loaders/) beautiful minimalistic loaders
 ---
 ## ▶JavaScript
-- [Behold Instagram](https://behold.so/) Easy Instagram feed
+- [Behold Instagram](https://behold.so/) Easy Instagram feed --LAST--
 ---
 ## ▶Fancy Features
 - [Scrollex](https://github.com/malerba118/scrollex) Fancy scroll experiences
