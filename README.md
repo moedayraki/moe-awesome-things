@@ -1,6 +1,7 @@
 # Moe-Awesome-Things
 **A list of links, repos, codes, and misc. for Software Engineering, Designing, and Developing**
 ---
+Personal Ps: Page 2 - Row 4
 ## ▶Laravel 
 ### Packages
 - [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) Login link generator
@@ -16,6 +17,10 @@
 - [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) Add cookie consent to any laravel website
 - [Blueprint](https://github.com/laravel-shift/blueprint) Generate code from a human readable definition
 - [Page Manager](https://github.com/Laravel-Backpack/PageManager) Add/Edit pages to laravel project
+- [Lang File Manager](https://github.com/Laravel-Backpack/LangFileManager) Interfeace to edit language files for laravel
+- [Laravel Markable](https://github.com/maize-tech/laravel-markable) Add likes, bookmarks, favourites and many markables to laravel
+- [Menu Generator](https://github.com/spatie/laravel-menu) Menu generator for laravel
+- [Laravel Subscribe](https://github.com/overtrue/laravel-subscribe) User subscribe/unsubscribe feature for laravel
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 ---
@@ -35,7 +40,7 @@
 - [UIBall Loaders](https://uiball.com/loaders/) beautiful minimalistic loaders
 ---
 ## ▶JavaScript
-- [Behold Instagram](https://behold.so/) Easy Instagram feed --LAST--
+- [Behold Instagram](https://behold.so/) Easy Instagram feed
 ---
 ## ▶Fancy Features
 - [Scrollex](https://github.com/malerba118/scrollex) Fancy scroll experiences
