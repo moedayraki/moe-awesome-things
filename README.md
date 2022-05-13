@@ -14,6 +14,8 @@
 - [Laravel Money](https://github.com/akaunting/laravel-money) Easily format and convert money
 - [Laravel Model Status](https://github.com/spatie/laravel-model-status) Add a model status as a trait with many additional features
 - [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) Add cookie consent to any laravel website
+- [Blueprint](https://github.com/laravel-shift/blueprint) Generate code from a human readable definition
+- [Page Manager](https://github.com/Laravel-Backpack/PageManager) Add/Edit pages to laravel project
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 ---
@@ -45,7 +47,9 @@
 - [PyScript](https://github.com/pyscript/pyscript) Write Python in HTML
 - [Frontend Checklist](https://frontendchecklist.io/) List to make sure you complete 
 - [TOAST UI](https://ui.toast.com/) UI library for many many things
-- 
+- [30 Seconds](https://github.com/30-seconds) Short code snippets for dev needs
+- [HTTPIE](https://httpie.io/) HTTP client for API
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
+- [InvenTree](https://github.com/inventree/InvenTree) Inventory management system
