@@ -21,12 +21,14 @@ Personal Ps: Page 2 - Row 4
 - [Laravel Markable](https://github.com/maize-tech/laravel-markable) Add likes, bookmarks, favourites and many markables to laravel
 - [Menu Generator](https://github.com/spatie/laravel-menu) Menu generator for laravel
 - [Laravel Subscribe](https://github.com/overtrue/laravel-subscribe) User subscribe/unsubscribe feature for laravel
+- [Laravel Fovorite](https://github.com/overtrue/laravel-favorite) User favorite feature for laravel
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 ---
 ## ▶VueJs 
 - [Vueye Table](https://github.com/boussadjra/vueye-table) Reponsive data table with many features
 - [Vue Search Input](https://github.com/kouts/vue-search-input) A search input component
+- [Form Kit](https://formkit.com/) Fast vue 3 forms
 ---
 ## ▶TailwindCSS
 - [HyperColor](https://hypercolor.dev/) List of gradients
@@ -54,7 +56,10 @@ Personal Ps: Page 2 - Row 4
 - [TOAST UI](https://ui.toast.com/) UI library for many many things
 - [30 Seconds](https://github.com/30-seconds) Short code snippets for dev needs
 - [HTTPIE](https://httpie.io/) HTTP client for API
+- [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile) Attractive github profiles
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
 - [InvenTree](https://github.com/inventree/InvenTree) Inventory management system
+- [LiveTerm](https://github.com/Cveinnt/LiveTerm) Terminal styled website
+- 
