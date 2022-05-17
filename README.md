@@ -22,6 +22,9 @@ Personal Ps: Page 2 - Row 4
 - [Menu Generator](https://github.com/spatie/laravel-menu) Menu generator for laravel
 - [Laravel Subscribe](https://github.com/overtrue/laravel-subscribe) User subscribe/unsubscribe feature for laravel
 - [Laravel Fovorite](https://github.com/overtrue/laravel-favorite) User favorite feature for laravel
+- [News CRUD](https://github.com/Laravel-Backpack/NewsCRUD) Write articles with categories and tags
+- [Laravel Role](https://github.com/ManiruzzamanAkash/laravel-role) Manage role, permissions, and every action.
+- [Laravel CRUD](https://github.com/Laravel-Backpack/CRUD) Quickly add admin interface for models
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 ---
@@ -29,6 +32,8 @@ Personal Ps: Page 2 - Row 4
 - [Vueye Table](https://github.com/boussadjra/vueye-table) Reponsive data table with many features
 - [Vue Search Input](https://github.com/kouts/vue-search-input) A search input component
 - [Form Kit](https://formkit.com/) Fast vue 3 forms
+- [Vue Scrollactive](https://github.com/eddiemf/vue-scrollactive) Scroll effects and features
+- [Vue Scroll Picker](https://github.com/wan2land/vue-scroll-picker) iOS style scroll picker for mouse and touch
 ---
 ## ▶TailwindCSS
 - [HyperColor](https://hypercolor.dev/) List of gradients
@@ -57,6 +62,7 @@ Personal Ps: Page 2 - Row 4
 - [30 Seconds](https://github.com/30-seconds) Short code snippets for dev needs
 - [HTTPIE](https://httpie.io/) HTTP client for API
 - [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile) Attractive github profiles
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) Papers for computer science
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
