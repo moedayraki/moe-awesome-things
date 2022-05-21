@@ -25,6 +25,8 @@ Personal Ps: Page 2 - Row 4
 - [News CRUD](https://github.com/Laravel-Backpack/NewsCRUD) Write articles with categories and tags
 - [Laravel Role](https://github.com/ManiruzzamanAkash/laravel-role) Manage role, permissions, and every action.
 - [Laravel CRUD](https://github.com/Laravel-Backpack/CRUD) Quickly add admin interface for models
+- [Google Mapper](https://github.com/bradcornford/Googlmapper) Integrate google maps with laravel
+- [Laravel Multidomain](https://github.com/gecche/laravel-multidomain) Single laravel with multiple domains.
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 ---
