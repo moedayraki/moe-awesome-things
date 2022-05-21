@@ -27,8 +27,17 @@ Personal Ps: Page 2 - Row 4
 - [Laravel CRUD](https://github.com/Laravel-Backpack/CRUD) Quickly add admin interface for models
 - [Google Mapper](https://github.com/bradcornford/Googlmapper) Integrate google maps with laravel
 - [Laravel Multidomain](https://github.com/gecche/laravel-multidomain) Single laravel with multiple domains.
+- [Laravel Password Rules](https://github.com/langleyfoxall/laravel-nist-password-rules) Validation rules for passwords
+- [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) Markdown wrapper for laravel
+- [Laravel Verify Email Change](https://github.com/protonemedia/laravel-verify-new-email) Verify email upon editing used email.
+- [Laravel Flags](https://github.com/ryangjchandler/laravel-feature-flags) Add flags to laravel application
+- [Laravel State](https://github.com/spatie/laravel-model-states) Add state behaviour to model
+- [Alerts](https://github.com/prologuephp/alerts) Global site messages and notifications
+- [Laravel Notes](https://github.com/ARCANEDEV/LaravelNotes) Add notes system
+- 
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
+- [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) Overview dashboard
 ---
 ## ▶VueJs 
 - [Vueye Table](https://github.com/boussadjra/vueye-table) Reponsive data table with many features
@@ -36,6 +45,7 @@ Personal Ps: Page 2 - Row 4
 - [Form Kit](https://formkit.com/) Fast vue 3 forms
 - [Vue Scrollactive](https://github.com/eddiemf/vue-scrollactive) Scroll effects and features
 - [Vue Scroll Picker](https://github.com/wan2land/vue-scroll-picker) iOS style scroll picker for mouse and touch
+- [Vue Dataset](https://vue-dataset-demo.netlify.app/) Display datasets(lists)
 ---
 ## ▶TailwindCSS
 - [HyperColor](https://hypercolor.dev/) List of gradients
