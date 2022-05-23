@@ -34,7 +34,8 @@ Personal Ps: Page 2 - Row 4
 - [Laravel State](https://github.com/spatie/laravel-model-states) Add state behaviour to model
 - [Alerts](https://github.com/prologuephp/alerts) Global site messages and notifications
 - [Laravel Notes](https://github.com/ARCANEDEV/LaravelNotes) Add notes system
-- 
+- [Laravel Settings](https://github.com/anlutro/laravel-settings) Application wide settings for laravel
+- [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) Insights about your laravel project
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 - [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) Overview dashboard
@@ -75,6 +76,8 @@ Personal Ps: Page 2 - Row 4
 - [HTTPIE](https://httpie.io/) HTTP client for API
 - [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile) Attractive github profiles
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) Papers for computer science
+- [Forgit](https://github.com/wfxr/forgit) Interactive git
+- [Shoelace](https://github.com/shoelace-style/shoelace)A collection of UI Components
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
