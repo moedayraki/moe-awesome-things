@@ -36,9 +36,17 @@ Personal Ps: Page 2 - Row 4
 - [Laravel Notes](https://github.com/ARCANEDEV/LaravelNotes) Add notes system
 - [Laravel Settings](https://github.com/anlutro/laravel-settings) Application wide settings for laravel
 - [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) Insights about your laravel project
+- [Laravel Trix](https://github.com/amaelftah/laravel-trix) Add Trix editor to laravel
+- [Invoices](https://github.com/ConsoleTVs/Invoices) Generate PDF invoices for customers in laravel
+- [Lada Cache](https://github.com/spiritix/lada-cache) Database cache for laravel
+- [Eloquent Filter](https://github.com/mehdi-fathi/eloquent-filter) Add custom filter to model in laravel
+- [Laravel World](https://github.com/khsing/laravel-world) Countries, states, and cities
+- 
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 - [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) Overview dashboard
+- [App Shell](https://github.com/artkonekt/appshell) A foundation for laravel business applications
+- [Laravel Realtime Chat App](https://github.com/ShubhamSahaniNitkkr/Laravel-RealTime-Chat-App) Realtime chat app
 ---
 ## ▶VueJs 
 - [Vueye Table](https://github.com/boussadjra/vueye-table) Reponsive data table with many features
@@ -66,6 +74,7 @@ Personal Ps: Page 2 - Row 4
 - [Scrollex](https://github.com/malerba118/scrollex) Fancy scroll experiences
 ---
 ## ▶Utilities
+### Tools
 - [Trix](https://github.com/basecamp/trix) A rich text editor for everyday writing
 - [Snipli](https://github.com/buidler-hub/snipli#commands) A command-line interface for quickly sharing code snippets
 - [H4cker](https://github.com/The-Art-of-Hacking/h4cker) Cyber security resources
@@ -78,6 +87,8 @@ Personal Ps: Page 2 - Row 4
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) Papers for computer science
 - [Forgit](https://github.com/wfxr/forgit) Interactive git
 - [Shoelace](https://github.com/shoelace-style/shoelace)A collection of UI Components
+### Learning
+- [Hacking Windows](https://github.com/mytechnotalent/Hacking-Windows) Reverse engineering courses
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
