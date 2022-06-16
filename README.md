@@ -1,7 +1,7 @@
 # Moe-Awesome-Things
 **A list of links, repos, codes, and misc. for Software Engineering, Designing, and Developing**
 ---
-Personal Ps: Page 2 - Row 4
+
 ## ▶Laravel 
 ### Packages
 - [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) Login link generator
@@ -42,7 +42,9 @@ Personal Ps: Page 2 - Row 4
 - [Eloquent Filter](https://github.com/mehdi-fathi/eloquent-filter) Add custom filter to model in laravel
 - [Laravel World](https://github.com/khsing/laravel-world) Countries, states, and cities
 - [Laravel Online Status](https://github.com/zaichaopan/online-status) Show user online status
-- 
+- [Laravel Rateable](https://github.com/willvincent/laravel-rateable) Provide a rating system to eloqument models
+- [Laravel LogManager](https://github.com/Laravel-Backpack/LogManager) A simple interface to preview, download and delete Laravel log files.
+- [Laravel Permission](https://github.com/spatie/laravel-permission) Associate users with permissions and roles
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
 - [Laravel Dashboard](https://github.com/spatie/laravel-dashboard) Overview dashboard
@@ -56,6 +58,7 @@ Personal Ps: Page 2 - Row 4
 - [Vue Scrollactive](https://github.com/eddiemf/vue-scrollactive) Scroll effects and features
 - [Vue Scroll Picker](https://github.com/wan2land/vue-scroll-picker) iOS style scroll picker for mouse and touch
 - [Vue Dataset](https://vue-dataset-demo.netlify.app/) Display datasets(lists)
+- [Tables](https://github.com/laravel-enso/tables) Data Tables package with server-side processing.
 ---
 ## ▶TailwindCSS
 - [HyperColor](https://hypercolor.dev/) List of gradients
@@ -66,7 +69,8 @@ Personal Ps: Page 2 - Row 4
 ## ▶CSS
 ### Icons
 - [Simple Icons](https://github.com/simple-icons/simple-icons) SVG icons for popular brands
-- [UIBall Loaders](https://uiball.com/loaders/) beautiful minimalistic loaders
+- [UIBall Loaders](https://uiball.com/loaders/) Beautiful minimalistic loaders
+- [Master CSS](https://github.com/master-co/css) A virtual css language
 ---
 ## ▶JavaScript
 - [Behold Instagram](https://behold.so/) Easy Instagram feed
@@ -87,10 +91,15 @@ Personal Ps: Page 2 - Row 4
 - [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile) Attractive github profiles
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) Papers for computer science
 - [Forgit](https://github.com/wfxr/forgit) Interactive git
-- [Shoelace](https://github.com/shoelace-style/shoelace)A collection of UI Components
+- [Shoelace](https://github.com/shoelace-style/shoelace) A collection of UI Components
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) Self-hosting softwares
+- [The Fuck](https://github.com/nvbn/thefuck) Correct errors in previous console commands
+- [BITB](https://github.com/mrd0x/BITB) Browser in Browser
+- [Phpmon](https://github.com/nicoverbruggen/phpmon) macOS utility app that displays php version and runs with Laravel Valet
 ### Learning
 - [Hacking Windows](https://github.com/mytechnotalent/Hacking-Windows) Reverse engineering courses
 - [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) Open source clones of popular sites
+- [ARPChat](https://github.com/kognise/arpchat) Use ARP protocol to create a chat app.
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
