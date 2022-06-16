@@ -41,6 +41,7 @@ Personal Ps: Page 2 - Row 4
 - [Lada Cache](https://github.com/spiritix/lada-cache) Database cache for laravel
 - [Eloquent Filter](https://github.com/mehdi-fathi/eloquent-filter) Add custom filter to model in laravel
 - [Laravel World](https://github.com/khsing/laravel-world) Countries, states, and cities
+- [Laravel Online Status](https://github.com/zaichaopan/online-status) Show user online status
 - 
 ### Projects
 - [Laravel Blog](https://github.com/guillaumebriday/laravel-blog) Blog
@@ -89,6 +90,7 @@ Personal Ps: Page 2 - Row 4
 - [Shoelace](https://github.com/shoelace-style/shoelace)A collection of UI Components
 ### Learning
 - [Hacking Windows](https://github.com/mytechnotalent/Hacking-Windows) Reverse engineering courses
+- [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) Open source clones of popular sites
 ---
 ## ▶Open Source Applications
 - [Actual](https://github.com/actualbudget/actual) A local-first personal finance tool
